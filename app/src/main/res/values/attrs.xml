@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircleView">
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="strokeColor" format="color|reference"/>
+        <attr name="fillColor" format="color|reference"/>
+        <attr name="circleRadius" format="dimension"/>
+        <attr name="circleGap" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="HorizontalWheelView">
+        <attr name="marksCount" format="integer"/>
+        <attr name="normalColor" format="color"/>
+        <attr name="activeColor" format="color"/>
+        <attr name="showActiveRange" format="boolean"/>
+        <attr name="endLock" format="boolean"/>
+        <attr name="onlyPositiveValues" format="boolean"/>
+        <attr name="snapToMarks" format="boolean"/>
+    </declare-styleable>
+
+</resources>

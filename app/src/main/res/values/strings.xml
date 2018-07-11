@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">se-wag</string>
+    <string name="dummy_name">dummy</string>
+    <string name="start_name">start </string>
+    <string name="levels_name">Levels...</string>
+    <string name="start">Start</string>
+    <string name="check_answer">Check Answer</string>
+
+    <string-array name="greeting_name">
+        <item>Hello!</item>
+        <item>Hola!</item>
+        <item>Vanakkam!</item>
+        <item>namaskar!</item>
+        <item>namaskara!</item>
+        <item>Howdy!</item>
+        <item>namaskaram!</item>
+        <item>Bonjour!</item>
+        <item>HALLO!</item>
+        <item>GUTEN TAG!</item>
+        <item>ciao!</item>
+        <item>ola!</item>
+        <item>namaste!</item>
+        <item>salaam!</item>
+        <item>ZDRAS-TVUY-TE!</item>
+        <item>KONNICHIWA!</item>
+        <item>OHAYO!</item>
+        <item>KONBAN WA!</item>
+        <item>AHN-YOUNG-HA-SE-YO!</item>
+        <item>MERHABA!</item>
+        <item>MARHABA!</item>
+        <item>SAIN BAINUU!</item>
+        <item>NI HAU!</item>
+        <item>Welcome!</item>
+    </string-array>
+    <string-array name="success_name">
+        <item>good job!</item>
+        <item>success!</item>
+        <item>great!</item>
+        <item>great going!</item>
+        <item>way to go!</item>
+        <item>congrats!</item>
+        <item>Yay!</item>
+        <item>Wack!</item>
+        <item>cool!</item>
+        <item>awesome!</item>
+        <item>thats how we do it!</item>
+        <item>Yes!</item>
+        <item>Correct!</item>
+        <item>Right Answer!</item>
+    </string-array>
+    <string-array name="failure_name">
+        <item>No!</item>
+        <item>Sorry!</item>
+        <item>Wrong!</item>
+        <item>lets try that again!</item>
+        <item>something wrong!</item>
+        <item>Hang in there!</item>
+        <item>thats not right!</item>
+        <item>missed it!</item>
+    </string-array>
+</resources>
